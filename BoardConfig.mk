@@ -17,10 +17,10 @@
 # inherit from common nile-common
 -include device/sony/nile-common/BoardConfigCommon.mk
 
-DEVICE_PATH := device/sony/pioneer
+DEVICE_PATH := device/sony/mermaid
 
 # Kernel
-TARGET_KERNEL_CONFIG := pioneer_defconfig
+TARGET_KERNEL_CONFIG := mermaid_defconfig
 
 # inherit from the proprietary version
--include vendor/sony/pioneer/BoardConfigVendor.mk
+-include vendor/sony/mermaid/BoardConfigVendor.mk

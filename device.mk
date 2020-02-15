@@ -15,7 +15,7 @@
 #
 
 # call the proprietary setup
-$(call inherit-product, vendor/sony/pioneer/pioneer-vendor.mk)
+$(call inherit-product, vendor/sony/mermaid/mermaid-vendor.mk)
 
 # Local overlays
 DEVICE_PACKAGE_OVERLAYS += \
