@@ -19,6 +19,9 @@
 
 DEVICE_PATH := device/sony/mermaid
 
+# HIDL
+DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
+
 # Kernel
 TARGET_KERNEL_CONFIG := mermaid_defconfig
 
