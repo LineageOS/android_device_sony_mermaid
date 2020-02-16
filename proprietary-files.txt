@@ -364,6 +364,13 @@ vendor/lib/libmmcamera_s5k4h8.so
 # Display calibration data
 vendor/etc/qdcm_calib_data_3.xml
 
+# Graphics firmware
+vendor/firmware/a512_zap.b00
+vendor/firmware/a512_zap.b01
+vendor/firmware/a512_zap.b02
+vendor/firmware/a512_zap.elf
+vendor/firmware/a512_zap.mdt
+
 # Keymaster
 vendor/bin/hw/android.hardware.keymaster@4.0-service-qti
 vendor/etc/init/android.hardware.keymaster@4.0-service-qti.rc
