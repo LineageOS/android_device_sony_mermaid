@@ -1,3 +1,5 @@
+# All unpinned blobs below are extracted from I3213_Customized UK_1318-2262_53.0.A.14.47_R3A
+
 # Audio ACDB
 vendor/etc/acdbdata/Sony/Sony_ganges_Bluetooth_cal.acdb
 vendor/etc/acdbdata/Sony/Sony_ganges_General_cal.acdb
