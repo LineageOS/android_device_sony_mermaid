@@ -1,4 +1,4 @@
-# All unpinned blobs below are extracted from I3213_Customized UK_1318-2262_53.0.A.14.47_R3A
+# All unpinned blobs below are extracted from I3213_Customized ZA_1318-0654_53.1.A.2.2_R2C
 
 # Audio ACDB
 vendor/etc/acdbdata/Sony/Sony_ganges_Bluetooth_cal.acdb
@@ -11,7 +11,7 @@ vendor/etc/acdbdata/Sony/Sony_ganges_Speaker_cal.acdb
 vendor/etc/acdbdata/Sony/workspaceFile_Sony_ganges.qwsp
 
 # Camera
-vendor/lib/hw/camera.sdm660.so|88cedefa150e53e4904d5d1a43b3d061e2f70212
+vendor/lib/hw/camera.sdm660.so
 vendor/lib/libarcimageprocess.so
 vendor/lib/libarcsoft_antishaking.so
 vendor/lib/libarcsoft_beautyshot.so
@@ -78,6 +78,7 @@ vendor/lib/libmmcamera_pdaf.so
 vendor/lib/libmmcamera_pdafcamif.so
 vendor/lib/libmmcamera_ppbase_module.so
 vendor/lib/libmmcamera_ppeiscore.so
+vendor/lib/libmmcamera_stillmore_lib.so
 vendor/lib/libmmcamera_sw2d_lib.so
 vendor/lib/libmmcamera_thread_services.so
 vendor/lib/libmmcamera_tintless_algo.so
@@ -96,6 +97,7 @@ vendor/lib/libqomx_jpegdec.so
 vendor/lib/libqomx_jpegenc.so
 vendor/lib/libqomx_jpegenc_pipe.so
 vendor/lib/libremosaic_daemon.so
+vendor/lib/libseemore.so
 
 # Camera actuators
 vendor/lib/libactuator_lc898214xc.so
@@ -114,6 +116,7 @@ vendor/lib/libchromatix_imx486_sm23_cpp_video.so
 vendor/lib/libchromatix_imx486_sm23_default.so
 vendor/lib/libchromatix_imx486_sm23_hfr_120_3a.so
 vendor/lib/libchromatix_imx486_sm23_hfr_60_3a.so
+vendor/lib/libchromatix_imx486_sm23_other.so
 vendor/lib/libchromatix_imx486_sm23_postproc.so
 vendor/lib/libchromatix_imx486_sm23_snapshot.so
 vendor/lib/libchromatix_imx486_sm23_video.so
@@ -130,6 +133,7 @@ vendor/lib/libchromatix_s5k4h7yx_cpp_mms.so
 vendor/lib/libchromatix_s5k4h7yx_cpp_snapshot.so
 vendor/lib/libchromatix_s5k4h7yx_cpp_video.so
 vendor/lib/libchromatix_s5k4h7yx_default.so
+vendor/lib/libchromatix_s5k4h7yx_other.so
 vendor/lib/libchromatix_s5k4h7yx_postproc.so
 vendor/lib/libchromatix_s5k4h7yx_snapshot.so
 vendor/lib/libchromatix_s5k4h7yx_video.so
