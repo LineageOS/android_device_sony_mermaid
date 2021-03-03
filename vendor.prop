@@ -1,6 +1,10 @@
 # Camera
 persist.vendor.camera.expose.aux=1
 
+# Chipset
+ro.soc.manufacturer=Qualcomm
+ro.soc.model=SDM636
+
 # SEMC
 ro.semc.product.model=I3213
 ro.semc.version.fs=GENERIC
