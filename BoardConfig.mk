@@ -23,7 +23,10 @@ DEVICE_PATH := device/sony/mermaid
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
 
 # Kernel
-TARGET_KERNEL_CONFIG := mermaid_defconfig
+TARGET_KERNEL_CONFIG := \
+    vendor/sdm660-perf_defconfig \
+    vendor/sony/common.config \
+    vendor/sony/mermaid.config
 
 # Properties
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
