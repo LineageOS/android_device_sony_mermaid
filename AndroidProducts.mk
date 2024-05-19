@@ -16,8 +16,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_mermaid.mk
-
-COMMON_LUNCH_CHOICES := \
-    lineage_mermaid-user \
-    lineage_mermaid-userdebug \
-    lineage_mermaid-eng
